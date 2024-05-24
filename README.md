@@ -1,4 +1,4 @@
-## What am I doing rn
+## No idea what I'm doing rn send help
 Still learning C & Python at a basic level.
 Studying abroad in Japan.
 Never miss a single Hakurei Shrine Reitaisai since came here.
