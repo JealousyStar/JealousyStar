@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## What am I doing rn
+Still learning C & Python at a basic level.
+Studying abroad in Japan.
+Never miss a single Hakurei Shrine Reitaisai since came here.
 <!--
 **JealousyStar/JealousyStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
